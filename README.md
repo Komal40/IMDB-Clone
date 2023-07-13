@@ -2,7 +2,7 @@
 
 This project is a React-based website that resembles IMDB, providing users with the ability to explore upcoming, popular, and top-rated movies. It integrates with the TMDB movies API using the Axios library for fetching movie data. The website also features detailed movie pages and an engaging carousel for showcasing featured films.
 
-#Features-
+## Features
 
 Movie Listing: Users can browse upcoming, popular, and top-rated movies.
 
@@ -12,15 +12,15 @@ Featured Film Carousel: The website includes a carousel on the homepage to highl
 
 API Integration: The project integrates with the TMDB movies API to fetch movie data.
 
-#Installation-
+## Installation
 
-Clone the repository: git clone https://github.com/Komal40/IMDB-Clone
+Clone the repository: git clone https://github.com/Komal40/IMDB-Clone.git
 
 Navigate to the project directory
 
 Install the dependencies: npm install
 
-#Usage-
+## Usage
 
 Get an API key from the TMDB website.
 
@@ -34,7 +34,7 @@ Start the development server: npm start
 
 Open your web browser and visit: http://localhost:3000
 
-#Technologies Used-
+## Technologies Used
 
 React: JavaScript library for building user interfaces.
 
