@@ -1,6 +1,6 @@
 # IMDB-Clone
 
-This project is a React-based website that resembles IMDB, providing users with the ability to explore upcoming, popular, and top-rated movies. It integrates with the TMDB movies API using the Axios library for fetching movie data. The website also features detailed movie pages and an engaging carousel for showcasing featured films.
+This project is a React-based website that resembles IMDB, providing users with the ability to explore upcoming, popular, and top-rated movies. It integrates with the TMDB movies API using for fetching movie data. The website also features detailed movie pages and an engaging carousel for showcasing featured films.
 
 ## Features
 
